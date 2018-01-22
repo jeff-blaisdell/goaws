@@ -7,9 +7,9 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/ghodss/yaml"
-	"github.com/p4tin/goaws/app/common"
-	sns "github.com/p4tin/goaws/app/gosns"
-	sqs "github.com/p4tin/goaws/app/gosqs"
+	"github.com/jeff-blaisdell/goaws/app/common"
+	sns "github.com/jeff-blaisdell/goaws/app/gosns"
+	sqs "github.com/jeff-blaisdell/goaws/app/gosqs"
 )
 
 type EnvSubsciption struct {

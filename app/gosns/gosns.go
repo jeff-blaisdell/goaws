@@ -12,9 +12,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/p4tin/goaws/app"
-	"github.com/p4tin/goaws/app/common"
-	sqs "github.com/p4tin/goaws/app/gosqs"
+	"github.com/jeff-blaisdell/goaws/app"
+	"github.com/jeff-blaisdell/goaws/app/common"
+	sqs "github.com/jeff-blaisdell/goaws/app/gosqs"
 )
 
 type SnsErrorType struct {

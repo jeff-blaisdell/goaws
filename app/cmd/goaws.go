@@ -7,8 +7,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/p4tin/goaws/app/conf"
-	"github.com/p4tin/goaws/app/router"
+	"github.com/jeff-blaisdell/goaws/app/conf"
+	"github.com/jeff-blaisdell/goaws/app/router"
 )
 
 func main() {
